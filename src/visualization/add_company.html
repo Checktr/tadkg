@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<!--
+add_company.html
+
+Landing page for when a user has either submitted a name or CSV file to be processed and added to the database.
+-->
+<head>
+    <title>Adding {{name}} - M&A Detection</title>
+    <link href="/assets/uploading.css" rel="stylesheet">
+</head>
+<body>
+<meta name="plural {{plural}}">
+<meta data-value="{{path}}" name="path">
+<main>
+    <div class="container">
+        <h2>{{"Applying" if plural else "Adding"}} <span id="company-name">{{name}}</span> to the database...</h2>
+        <p>This will take a few minutes, depending on the size of the compan{{"ies" if plural else "y"}}. <br>
+            This tab will close when the addition is complete.</p>
+        <p>You can return to the dashboard or close this tab if you like. <br>
+            Please do <strong>not</strong> refresh the page. Hang tight!</p>
+        <br>
+        <div class="lds-ripple">
+            <div></div>
+            <div></div>
+        </div>
+    </div>
+</main>
+<script src="assets/upload.js"></script>
+</body>
+</html>

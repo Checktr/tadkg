@@ -1,0 +1,500 @@
+Walmart http://www.stock.walmart.com
+Berkshire Hathaway http://www.berkshirehathaway.com
+Apple http://www.apple.com
+Exxon Mobil http://www.exxonmobil.com
+McKesson http://www.mckesson.com
+UnitedHealth Group http://www.unitedhealthgroup.com
+CVS Health http://www.cvshealth.com
+General Motors http://www.gm.com
+AT&T http://www.att.com
+Ford Motor http://www.corporate.ford.com
+AmerisourceBergen http://www.amerisourcebergen.com
+Amazon.com http://www.amazon.com
+General Electric http://www.ge.com
+Verizon http://www.verizon.com
+Cardinal Health http://www.cardinalhealth.com
+Costco http://www.costco.com
+Walgreens Boots Alliance http://www.walgreensbootsalliance.com
+Kroger http://www.thekrogerco.com
+Chevron http://www.chevron.com
+Fannie Mae http://www.fanniemae.com
+J.P. Morgan Chase http://www.jpmorganchase.com
+Express Scripts Holding http://www.express-scripts.com
+Home Depot http://www.homedepot.com
+Boeing http://www.boeing.com
+Wells Fargo http://www.wellsfargo.com
+Bank of America Corp. http://www.bankofamerica.com
+Alphabet http://www.abc.xyz
+Microsoft http://www.microsoft.com
+Anthem http://www.antheminc.com
+Citigroup http://www.citigroup.com
+Comcast http://www.comcastcorporation.com
+IBM http://www.ibm.com
+State Farm Insurance Cos. http://www.statefarm.com
+Phillips http://www.phillips66.com
+Johnson & Johnson http://www.jnj.com
+Procter & Gamble http://www.pg.com
+Valero Energy http://www.valero.com
+Target http://www.target.com
+Freddie Mac http://www.freddiemac.com
+Lowe's http://www.lowes.com
+Dell Technologies http://www.delltechnologies.com
+MetLife http://www.metlife.com
+Aetna http://www.aetna.com
+PepsiCo http://www.pepsico.com
+Archer Daniels Midland http://www.adm.com
+UPS http://www.ups.com
+Intel http://www.intel.com
+Prudential Financial http://www.prudential.com
+Albertsons Cos. http://www.albertsons.com
+United Technologies http://www.utc.com
+Marathon Petroleum http://www.marathonpetroleum.com
+Disney http://www.disney.com
+Humana http://www.humana.com
+Pfizer http://www.pfizer.com
+AIG http://www.aig.com
+Lockheed Martin http://www.lockheedmartin.com
+Sysco http://www.sysco.com
+FedEx http://www.fedex.com
+Hewlett Packard Enterprise http://www.hpe.com
+Cisco Systems http://www.cisco.com
+HP http://www.hp.com
+Dow Chemical http://www.dow.com
+HCA Holdings http://www.hcahealthcare.com
+Coca-Cola http://www.coca-colacompany.com
+New York Life Insurance http://www.newyorklife.com
+Centene http://www.centene.com
+American Airlines Group http://www.aa.com
+Nationwide http://www.nationwide.com
+Merck http://www.merck.com
+Cigna http://www.cigna.com
+Delta Air Lines http://www.delta.com
+Best Buy http://www.bestbuy.com
+Honeywell International http://www.honeywell.com
+Caterpillar http://www.caterpillar.com
+Liberty Mutual Insurance Group http://www.libertymutual.com
+Morgan Stanley http://www.morganstanley.com
+Massachusetts Mutual Life Insurance http://www.massmutual.com
+Goldman Sachs Group http://www.gs.com
+Energy Transfer Equity http://www.energytransfer.com
+TIAA http://www.tiaa.org
+Oracle http://www.oracle.com
+Tyson Foods http://www.tysonfoods.com
+United Continental Holdings http://www.united.com
+Allstate http://www.allstate.com
+Publix Super Markets http://www.publix.com
+American Express http://www.americanexpress.com
+TJX http://www.tjx.com
+Nike http://www.nike.com
+Exelon http://www.exeloncorp.com
+General Dynamics http://www.generaldynamics.com
+Rite Aid http://www.riteaid.com
+Gilead Sciences http://www.gilead.com
+CHS http://www.chsinc.com
+M http://www.3m.com
+Time Warner http://www.timewarner.com
+Charter Communications http://www.charter.com
+Northwestern Mutual http://www.northwesternmutual.com
+Facebook http://www.facebook.com
+Travelers Cos. http://www.travelers.com
+Capital One Financial http://www.capitalone.com
+Twenty-First Century Fox http://www.21cf.com
+USAA http://www.usaa.com
+World Fuel Services http://www.wfscorp.com
+Philip Morris International http://www.pmi.com
+Deere http://www.johndeere.com
+Kraft Heinz http://www.kraftheinzcompany.com
+Tech Data http://www.techdata.com
+Avnet http://www.avnet.com
+Mondelez International http://www.mondelezinternational.com
+Macy's http://www.macysinc.com
+AbbVie http://www.abbvie.com
+McDonald's http://www.aboutmcdonalds.com
+DuPont http://www.dupont.com
+Northrop Grumman http://www.northropgrumman.com
+ConocoPhillips http://www.conocophillips.com
+Raytheon http://www.raytheon.com
+Tesoro http://www.tsocorp.com
+Arrow Electronics http://www.arrow.com
+Qualcomm http://www.qualcomm.com
+Progressive http://www.progressive.com
+Duke Energy http://www.duke-energy.com
+Enterprise Products Partners http://www.enterpriseproducts.com
+Amgen http://www.amgen.com
+US Foods Holding http://www.usfoods.com
+U.S. Bancorp http://www.usbank.com
+Aflac http://www.aflac.com
+Sears Holdings http://www.searsholdings.com
+Dollar General http://www.dollargeneral.com
+AutoNation http://www.autonation.com
+Community Health Systems http://www.chs.net
+Starbucks http://www.starbucks.com
+Eli Lilly http://www.lilly.com
+International Paper http://www.internationalpaper.com
+Tenet Healthcare http://www.tenethealth.com
+Abbott Laboratories http://www.abbott.com
+Dollar Tree http://www.dollartree.com
+Whirlpool http://www.whirlpoolcorp.com
+Southwest Airlines http://www.southwest.com
+Emerson Electric http://www.emerson.com
+Staples http://www.staples.com
+Plains GP Holdings http://www.plainsallamerican.com
+Penske Automotive Group http://www.penskeautomotive.com
+Union Pacific http://www.up.com
+Danaher http://www.danaher.com
+Southern http://www.southerncompany.com
+ManpowerGroup http://www.manpowergroup.com
+Bristol-Myers Squibb http://www.bms.com
+Altria Group http://www.altria.com
+Fluor http://www.fluor.com
+Kohl's http://www.kohls.com
+Lear http://www.lear.com
+Jabil Circuit http://www.jabil.com
+Hartford Financial Services Group http://www.thehartford.com
+Thermo Fisher Scientific http://www.thermofisher.com
+Kimberly-Clark http://www.kimberly-clark.com
+Molina Healthcare http://www.molinahealthcare.com
+PG&E Corp. http://www.pgecorp.com
+Supervalu http://www.supervalu.com
+Cummins http://www.cummins.com
+CenturyLink http://www.centurylink.com
+AECOM http://www.aecom.com
+Xerox http://www.xerox.com
+Marriott International http://www.marriott.com
+Paccar http://www.paccar.com
+General Mills http://www.generalmills.com
+PNC Financial Services Group http://www.pnc.com
+American Electric Power http://www.aep.com
+Icahn Enterprises http://www.ielp.com
+Nucor http://www.nucor.com
+NextEra Energy http://www.nexteraenergy.com
+Performance Food Group http://www.pfgc.com
+PBF Energy http://www.pbfenergy.com
+Halliburton http://www.halliburton.com
+CarMax http://www.carmax.com
+Freeport-McMoRan http://www.fcx.com
+Whole Foods Market http://www.wholefoodsmarket.com
+Bank of New York Mellon Corp. http://www.bnymellon.com
+Gap http://www.gapinc.com
+Omnicom Group http://www.omnicomgroup.com
+Genuine Parts http://www.genpt.com
+DaVita HealthCare Partners http://www.davita.com
+Colgate-Palmolive http://www.colgatepalmolive.com
+PPG Industries http://www.ppg.com
+Goodyear Tire & Rubber http://www.goodyear.com
+Synchrony Financial http://www.synchronyfinancial.com
+DISH Network http://www.dish.com
+Visa http://www.visa.com
+Nordstrom http://www.nordstrom.com
+INTL FCStone http://www.intlfcstone.com
+WestRock http://www.westrock.com
+XPO Logistics http://www.xpo.com
+Aramark http://www.aramark.com
+CBS http://www.cbscorporation.com
+AES http://www.aes.com
+WellCare Health Plans http://www.wellcare.com
+FirstEnergy http://www.firstenergycorp.com
+ConAgra Foods http://www.conagrafoods.com
+Synnex http://www.synnex.com
+CDW http://www.cdw.com
+Textron http://www.textron.com
+Waste Management http://www.wm.com
+Illinois Tool Works http://www.itw.com
+Office Depot http://www.officedepot.com
+Monsanto http://www.monsanto.com
+Cognizant Technology Solutions http://www.cognizant.com
+Texas Instruments http://www.ti.com
+Lincoln National http://www.lfg.com
+Newell Brands http://www.newellbrands.com
+Land O'Lakes http://www.landolakesinc.com
+Marsh & McLennan http://www.mmc.com
+Ecolab http://www.ecolab.com
+C.H. Robinson Worldwide http://www.chrobinson.com
+Loews http://www.loews.com
+CBRE Group http://www.cbre.com
+Kinder Morgan http://www.kindermorgan.com
+Kellogg http://www.kelloggcompany.com
+Western Digital http://www.wdc.com
+Guardian Life Ins. Co. of America http://www.guardianlife.com
+Ross Stores http://www.rossstores.com
+L Brands http://www.lb.com
+J.C. Penney http://www.jcpenney.com
+Farmers Insurance Exchange http://www.farmers.com
+Reynolds American http://www.reynoldsamerican.com
+Viacom http://www.viacom.com
+Becton Dickinson http://www.bd.com
+Micron Technology http://www.micron.com
+Principal Financial http://www.principal.com
+Arconic http://www.arconic.com
+NRG Energy http://www.nrg.com
+VF http://www.vfc.com
+Devon Energy http://www.devonenergy.com
+D.R. Horton http://www.drhorton.com
+Bed Bath & Beyond http://www.bedbathandbeyond.com
+Consolidated Edison http://www.conedison.com
+Edison International http://www.edisoninvestor.com
+Sherwin-Williams http://www.sherwin.com
+NGL Energy Partners http://www.nglenergypartners.com
+Dominion Resources http://www.dom.com
+Ameriprise Financial http://www.ameriprise.com
+ADP http://www.adp.com
+Hilton Worldwide Holdings http://www.hiltonworldwide.com
+First Data http://www.firstdata.com
+Henry Schein http://www.henryschein.com
+Toys “R” Us http://www.toysrusinc.com
+BB&T Corp. http://www.bbt.com
+Reinsurance Group of America http://www.rgare.com
+Core-Mark Holding http://www.core-mark.com
+Biogen http://www.biogen.com
+Las Vegas Sands http://www.sands.com
+Stanley Black & Decker http://www.stanleyblackanddecker.com
+Parker-Hannifin http://www.parker.com
+Stryker http://www.stryker.com
+Estee Lauder http://www.elcompanies.com
+Celgene http://www.celgene.com
+BlackRock http://www.blackrock.com
+Xcel Energy http://www.xcelenergy.com
+CSX http://www.csx.com
+Unum Group http://www.unum.com
+Jacobs Engineering Group http://www.jacobs.com
+Lennar http://www.lennar.com
+Group 1 Automotive http://www.group1auto.com
+Leucadia National http://www.leucadia.com
+Entergy http://www.entergy.com
+PayPal Holdings http://www.paypal.com
+Applied Materials http://www.appliedmaterials.com
+Voya Financial http://www.voya.com
+MasterCard http://www.mastercard.com
+Priceline Group http://www.pricelinegroup.com
+Liberty Interactive http://www.libertyinteractive.com
+AutoZone http://www.autozone.com
+State Street Corp. http://www.statestreet.com
+DTE Energy http://www.dteenergy.com
+L-3 Communications http://www.l-3com.com
+HollyFrontier http://www.hollyfrontier.com
+Praxair http://www.praxair.com
+Universal Health Services http://www.uhsinc.com
+Discover Financial Services http://www.discover.com
+Occidental Petroleum http://www.oxy.com
+United States Steel http://www.ussteel.com
+Sempra Energy http://www.sempra.com
+Baxter International http://www.baxter.com
+W.W. Grainger http://www.grainger.com
+Autoliv http://www.autoliv.com
+Norfolk Southern http://www.norfolksouthern.com
+Baker Hughes http://www.bakerhughes.com
+Ally Financial http://www.ally.com
+Sonic Automotive http://www.sonicautomotive.com
+Owens & Minor http://www.owens-minor.com
+Huntsman http://www.huntsman.com
+Laboratory Corp. of America http://www.labcorp.com
+Murphy USA http://www.murphyusa.com
+Advance Auto Parts http://www.advanceautoparts.com
+Fidelity National Financial http://www.fnf.com
+Air Products & Chemicals http://www.airproducts.com
+Hormel Foods http://www.hormelfoods.com
+Hertz Global Holdings http://www.hertz.com
+MGM Resorts International http://www.mgmresorts.com
+Corning http://www.corning.com
+Republic Services http://www.republicservices.com
+Alcoa http://www.alcoa.com
+Fidelity National Information Services http://www.fisglobal.com
+Pacific Life http://www.pacificlife.com
+SunTrust Banks http://www.suntrust.com
+LKQ http://www.lkqcorp.com
+BorgWarner http://www.borgwarner.com
+Ball http://www.ball.com
+CST Brands http://www.cstbrands.com
+Public Service Enterprise Group http://www.pseg.com
+Eastman Chemical http://www.eastman.com
+eBay http://www.ebay.com
+Mohawk Industries http://www.mohawkind.com
+Oneok http://www.oneok.com
+Frontier Communications http://www.frontier.com
+Netflix http://www.netflix.com
+American Family Insurance Group http://www.amfam.com
+Thrivent Financial for Lutherans http://www.thrivent.com
+Expedia http://www.expediainc.com
+Lithia Motors http://www.lithiainvestorrelations.com
+Avis Budget Group http://www.avisbudgetgroup.com
+Reliance Steel & Aluminum http://www.rsac.com
+GameStop http://www.gamestop.com
+Tenneco http://www.tenneco.com
+O'Reilly Automotive http://www.oreillyauto.com
+Peter Kiewit Sons' http://www.kiewit.com
+United Natural Foods http://www.unfi.com
+salesforce.com http://www.salesforce.com
+Boston Scientific http://www.bostonscientific.com
+Newmont Mining http://www.newmont.com
+Genworth Financial http://www.genworth.com
+Live Nation Entertainment http://www.livenationentertainment.com
+Veritiv http://www.veritivcorp.com
+News Corp. http://www.newscorp.com
+Crown Holdings http://www.crowncork.com
+Global Partners http://www.globalp.com
+PVH http://www.pvh.com
+Level 3 Communications http://www.level3.com
+Navistar International http://www.navistar.com
+Univar http://www.univar.com
+Campbell Soup http://www.campbellsoupcompany.com
+Dick's Sporting Goods http://www.dicks.com
+Weyerhaeuser http://www.weyerhaeuser.com
+Mutual of Omaha Insurance http://www.mutualofomaha.com
+Chesapeake Energy http://www.chk.com
+Anadarko Petroleum http://www.anadarko.com
+Interpublic Group http://www.interpublic.com
+J.M. Smucker http://www.jmsmucker.com
+Steel Dynamics http://www.steeldynamics.com
+Foot Locker http://www.footlocker-inc.com
+Western Refining http://www.wnr.com
+SpartanNash http://www.spartannash.com
+Dean Foods http://www.deanfoods.com
+Zimmer Biomet Holdings http://www.zimmerbiomet.com
+PulteGroup http://www.pultegroupinc.com
+W.R. Berkley http://www.wrberkley.com
+Quanta Services http://www.quantaservices.com
+EOG Resources http://www.eogresources.com
+Charles Schwab http://www.aboutschwab.com
+Eversource Energy http://www.eversource.com
+Anixter International http://www.anixter.com
+EMCOR Group http://www.emcorgroup.com
+Assurant http://www.assurant.com
+CenterPoint Energy http://www.centerpointenergy.com
+Harris http://www.harris.com
+HD Supply Holdings http://www.hdsupply.com
+PPL http://www.pplweb.com
+Quest Diagnostics http://www.questdiagnostics.com
+Williams http://www.williams.com
+WEC Energy Group http://www.wecenergygroup.com
+Hershey http://www.thehersheycompany.com
+AGCO http://www.agcocorp.com
+Ralph Lauren http://www.ralphlauren.com
+Masco http://www.masco.com
+WESCO International http://www.wesco.com
+LifePoint Health http://www.lifepointhealth.net
+National Oilwell Varco http://www.nov.com
+Kindred Healthcare http://www.kindredhealthcare.com
+Mosaic http://www.mosaicco.com
+Alliance Data Systems http://www.alliancedata.com
+Computer Sciences http://www.csc.com
+Huntington Ingalls Industries http://www.huntingtoningalls.com
+Leidos Holdings http://www.leidos.com
+Erie Insurance Group http://www.erieinsurance.com
+Tesla http://www.tesla.com
+Ascena Retail Group http://www.ascenaretail.com
+Darden Restaurants http://www.darden.com
+Harman International Industries http://www.harman.com
+Nvidia http://www.nvidia.com
+R.R. Donnelley & Sons http://www.rrdonnelley.com
+Fifth Third Bancorp http://www.53.com
+Quintiles Transnational Holdings http://www.quintiles.com
+Jones Lang LaSalle http://www.jll.com
+Dover http://www.dovercorporation.com
+Spirit AeroSystems Holdings http://www.spiritaero.com
+Ryder System http://www.ryder.com
+A-Mark Precious Metals http://www.amark.com
+Tractor Supply http://www.tractorsupply.com
+Sealed Air http://www.sealedair.com
+Auto-Owners Insurance http://www.auto-owners.com
+Yum China Holdings http://ir.yumchina.com
+Calpine http://www.calpine.com
+Owens-Illinois http://www.o-i.com
+Targa Resources http://www.targaresources.com
+JetBlue Airways http://www.jetblue.com
+Jones Financial http://www.edwardjones.com
+Franklin Resources http://www.franklinresources.com
+Activision Blizzard http://www.activisionblizzard.com
+J.B. Hunt Transport Services http://www.jbhunt.com
+Constellation Brands http://www.cbrands.com
+NCR http://www.ncr.com
+Asbury Automotive Group http://www.asburyauto.com
+American Financial Group http://www.afginc.com
+Discovery Communications http://www.discoverycommunications.com
+Berry Global Group http://www.berryglobal.com
+Sanmina http://www.sanmina.com
+CalAtlantic Group http://www.calatlantichomes.com
+Dr Pepper Snapple Group http://www.drpeppersnapplegroup.com
+Dillard's http://www.dillards.com
+HRG Group http://www.hrggroup.com
+CMS Energy http://www.cmsenergy.com
+Graybar Electric http://www.graybar.com
+Builders FirstSource http://www.bldr.com
+Yum Brands http://www.yum.com
+Casey's General Stores http://www.caseys.com
+Amphenol http://www.amphenol.com
+Oshkosh http://www.oshkoshcorporation.com
+iHeartMedia http://www.iheartmedia.com
+TreeHouse Foods http://www.treehousefoods.com
+Alleghany http://www.alleghany.com
+Expeditors International of Washington http://www.expeditors.com
+Avery Dennison http://www.averydennison.com
+Ameren http://www.ameren.com
+Hanesbrands http://www.hanes.com
+Motorola Solutions http://www.motorolasolutions.com
+St. Jude Medical http://www.sjm.com
+Harley-Davidson http://www.harley-davidson.com
+Regions Financial http://www.regions.com
+Intercontinental Exchange http://www.theice.com
+Alaska Air Group http://www.alaskaair.com
+Old Republic International http://www.oldrepublic.com
+Lam Research http://www.lamresearch.com
+AK Steel Holding http://www.aksteel.com
+Rockwell Automation http://www.rockwellautomation.com
+Adobe Systems http://www.adobe.com
+Avon Products http://www.avoninvestor.com
+Terex http://www.terex.com
+NVR http://www.nvrinc.com
+Dana Holding http://www.dana.com
+Realogy Holdings http://www.realogy.com
+American Tower http://www.americantower.com
+Packaging Corp. of America http://www.packagingcorp.com
+Citizens Financial Group http://www.citizensbank.com
+United Rentals http://www.unitedrentals.com
+Clorox http://www.thecloroxcompany.com
+Genesis Healthcare http://www.genesishcc.com
+M&T Bank Corp. http://www.mtb.com
+Ingredion http://www.ingredion.com
+UGI http://www.ugicorp.com
+Owens Corning http://www.owenscorning.com
+S&P Global http://www.spglobal.com
+Markel http://www.markelcorp.com
+Wyndham Worldwide http://www.wyndhamworldwide.com
+Arthur J. Gallagher http://www.ajg.com
+Burlington Stores http://www.burlington.com
+First American Financial http://www.firstam.com
+Symantec http://www.symantec.com
+Patterson http://www.pattersoncompanies.com
+Olin http://www.olin.com
+NetApp http://www.netapp.com
+Raymond James Financial http://www.raymondjames.com
+TravelCenters of America http://www.ta-petro.com
+Fiserv http://www.fiserv.com
+Host Hotels & Resorts http://www.hosthotels.com
+Insight Enterprises http://www.insight.com
+Mattel http://www.mattel.com
+AmTrust Financial Services http://www.amtrustfinancial.com
+Cincinnati Financial http://www.cinfin.com
+Simon Property Group http://www.simon.com
+Western Union http://www.westernunion.com
+KeyCorp http://www.key.com
+Delek US Holdings http://www.delekus.com
+Booz Allen Hamilton Holding http://www.boozallen.com
+Chemours http://www.chemours.com
+Western & Southern Financial Group http://www.westernsouthern.com
+Celanese http://www.celanese.com
+Windstream Holdings http://www.windstream.com
+Seaboard http://www.seaboardcorp.com
+Essendant http://www.essendant.com
+Apache http://www.apachecorp.com
+Airgas http://www.airgas.com
+Kelly Services http://www.kellyservices.com
+Liberty Media http://www.libertymedia.com
+Rockwell Collins http://www.rockwellcollins.com
+Robert Half International http://www.roberthalf.com
+CH2M Hill http://www.ch2m.com
+Big Lots http://www.biglots.com
+Michaels Cos. http://www.michaels.com
+Toll Brothers http://www.tollbrothers.com
+Yahoo http://www.yahoo.com
+Vistra Energy http://www.vistraenergy.com
+ABM Industries http://www.abm.com

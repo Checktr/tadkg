@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<!--
+index.html
+
+Main endpoint of the visualization/interface component of the project. Used to view M&A data from the database
+within a web browser.
+-->
+<head>
+    <title>M&A Detection</title>
+    <link href="/assets/visualization.css" rel="stylesheet">
+</head>
+<body>
+<header>
+    <h2><img alt="Icon" src="assets/favicon-32x32.png">&nbsp; <span>Merger and Acquisition Detection</span></h2>
+</header>
+<main>
+    <div id="company-list-container">
+        <h3>Companies</h3>
+        <form action="/add_company"
+              enctype="multipart/form-data"
+              id="searchform" method="post" onsubmit="return addCompanyPrompt(document.getElementById('csvinput').files ? document.getElementById('csvinput').files[0].name : document.getElementById('nameinput').value)" target="_blank">
+            <input id="nameinput" name="name" placeholder="Add Company" type="text">
+            <input accept="text/csv" id="csvinput" name="csv" onchange="if (this.files && this.form.onsubmit(null)) this.form.submit()" style="display: none"
+                   type="file">
+            <label for="csvinput" id="upload-icon" title="Upload CSV"><img src="/assets/upload.png"></label>
+            <!-- Icon from Ilham Fitrotul Hayat on flaticon.com -->
+        </form>
+        <div id="company-list"></div>
+    </div>
+    <div id="link-container">
+        <h3>Webpages for &quot;<span id="sel-company"></span>&quot;</h3>
+        <div id="links"></div>
+        <div class="lds-ellipsis">
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+        </div>
+    </div>
+    <div class="hidden" id="link-inspection-container">
+        <h3 id="link-title">Scanned Webpage</h3>
+        <a href="" id="link-a" target="_blank"><span></span></a>
+        <div id="top-entities">
+            <span>Top Entities: </span>
+            <div id="top-entity-box"></div>
+        </div>
+        <div id="sentence-container"></div>
+    </div>
+</main>
+
+
+<script src="/assets/script.js"></script>
+</body>
+</html>

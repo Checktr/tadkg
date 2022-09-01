@@ -1,0 +1,161 @@
+paths:
+  entities: 'data/raw/sample_manufacturers.csv'
+  databases:
+    test_train: 'data/processed/test_train_database.db'
+    live_prediction: 'data/processed/live_prediction_database.db'
+
+
+data:
+  tables:
+    sentence_level: 'SentenceLevelData'
+    page_level: 'PageLevelData'
+  attributes:
+    isMerger:
+      name: Merger
+      desc: Data represents a merger
+    isAcquisition:
+      name: Acquisition
+      desc: Data represents an acquisition
+    isMergerOrAcquisition:
+      name: Either
+      desc: Data represents either a merger or an acquisition
+
+
+classifier:
+  page_level:
+    table: 'PageLevelData'
+    attribute: 'text'
+    attribute_labels: 'isMergerOrAcquisition'
+    positive_sample_ratio: 0.7
+    negative_sample_ratio: 0.7
+    negatives_to_positives_ratio: -1
+    model_name: "allenai/longformer-base-4096"
+    model_path: 'models/PageLevelData/isMergerOrAcquisition_weights'
+  isMerger:
+    table: 'SentenceLevelData'
+    attribute: 'text'
+    attribute_labels: 'isMerger'
+    positive_sample_ratio: 0.7
+    negative_sample_ratio: 0.7
+    negatives_to_positives_ratio: 3.5
+    model_name: "bert-base-uncased"
+    model_path: 'models/SentenceLevelData/isMerger_weights'
+  isAcquisition:
+    table: 'SentenceLevelData'
+    attribute: 'text'
+    attribute_labels: 'isAcquisition'
+    positive_sample_ratio: 0.7
+    negative_sample_ratio: 0.7
+    negatives_to_positives_ratio: 3.5
+    model_name: "bert-base-uncased"
+    model_path: 'models/SentenceLevelData/isAcquisition_weights'
+  isMergerOrAcquisition:
+    table: 'SentenceLevelData'
+    attribute: 'text'
+    attribute_labels: 'isMergerOrAcquisition'
+    positive_sample_ratio: 0.7
+    negative_sample_ratio: 0.7
+    negatives_to_positives_ratio: 3.5
+    model_name: "bert-base-uncased"
+    model_path: 'models/SentenceLevelData/isMergerOrAcquisition_weights'
+
+
+collection:
+  google_search:
+    tld: 'ca'
+    num: 25
+    stop: 25
+    pause: 2
+  templates:
+    - '{} merger'
+    - '{} acquisition'
+
+
+tagging:
+  options:
+    - name: Merger
+      values: [ 1, 0, 1 ]
+    - name: Acquisition
+      values: [ 0, 1, 1 ]
+    - name: Both
+      values: [ 1, 1, 1 ]
+    - name: Neither
+      values: [ 0, 0, 0 ]
+
+
+confidence:
+  score_criteria:
+    - isMergerOrAcquisition:
+        equals: 1
+    - either:
+        - isMerger:
+            equals: 1
+        - isAcquisition:
+            equals: 1
+
+
+synthetic_sentence_schema:
+  attribute: 'text'
+  target: 'isMergerOrAcquisition'
+  entity: 'entity'
+  defaults:
+    isMerger: ~
+    isAcquisition: ~
+    website: 'RANDOMLY_GENERATED_FAKE_DATA'
+
+
+synthetic_page_schema:
+  attribute: 'text'
+  target: 'website'
+  entity: 'entity'
+  defaults:
+    isMerger: 0
+    isAcquisition: 0
+    isMergerOrAcquisition: 0
+
+
+synthetic_data:
+  template_phrases:
+    - "CMP1 has acquired CMP2 <filler>"
+    - 'CMP1 announced its intention to acquire CMP2 <filler>'
+    - 'CMP1 acquired CMP2 <filler>'
+    - 'CMP1 to acquire CMP2 <filler>'
+    - 'CMP1 to buy CMP2 <filler>'
+    - 'CMP1 closes deal to buy CMP2 <filler>'
+    - 'CMP1 completed its acquisition of CMP2 <filler>'
+    - 'CMP2 was acquired by CMP1 <filler>'
+    - 'CMP2 has been acquired by CMP1 <filler>'
+    - 'CMP1 merges with CMP2 <filler>'
+    - 'CMP1 and CMP2 have begun their merger <filler>'
+  filler:
+    - 'today'
+    - 'yesterday'
+    - 'recently'
+    - 'in a recent business move'
+    - 'in an attempt to improve service'
+    - 'this week'
+    - 'this month'
+    - 'in $<decimal> billion deal'
+    - 'in $<decimal> bn deal'
+    - 'in $<integer> million deal'
+    - 'in $<integer> mn deal'
+    - 'for a sum total of $<decimal> billion'
+    - 'for a value of $<decimal> billion'
+    - 'for a sum total of $<integer> million'
+    - 'for a value of $<integer> million'
+    - 'for $<integer> million'
+    - 'for $<decimal> billion'
+    - 'as part of a new corporate plan'
+    - ''
+  terminators:
+    - 'llc'
+    - 'limited'
+    - 'ltd'
+    - 'inc'
+    - 'corp'
+    - 'incorporated'
+    - 'co'
+
+  entity_name_file: 'training_company_names.txt'
+
+  negative_page_file_name: 'assorted_pages.txt'
