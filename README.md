@@ -8,7 +8,7 @@ Created using [PyTorch](https://pytorch.org/), [scikit-learn](https://scikit-lea
 
 ## About
 
-This repository is part of a submission to the CASCONxEVOKE 2022 conference. As such, it has been uploaded anonymously to GitHub with heavily squashed commits. A full version of this framework will be uploaded after the submission period for the conference.
+This repository is part of a submission to the CASCONxEVOKE 2022 conference. As such, it was initially uploaded anonymously to GitHub with heavily squashed commits. 
 
 ## Features
 
@@ -87,4 +87,15 @@ Once your CSV file has been created, run the import script. This script will rea
 
 ## Credits
 
-This project was designed and created by an anonymous group for the CASCONxEVOKE 2022 conference. Credits will be released with the full publication of this project.
+This project was designed and created by our group as a collaborative project between Carleton University and
+Lytica Inc. to discover mergers and acquisitions between electronic component manufacturers.
+
+Team:
+
+- Curtis Davies
+- Nicholas Sendyk
+- Titus Priscu
+- Miles Sutherland
+- Atallah Madi
+
+Special thanks to Kevin Dick from Carleton University for his help in the overall design of the system.
